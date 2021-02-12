@@ -1,0 +1,3 @@
+server side search
+
+Z důvodu optimalizace rychlosti probíhá vyhledávání server-side, tudíž stránka posílá nový SQL dotaz při každé změně vyhledávacího inputu a omezuje počet výsledků v SQL přes LIMIT, aby uživateli zobrazila jen to, co potřebuje vidět.
