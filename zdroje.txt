@@ -1,1 +1,7 @@
 https://www.itnetwork.cz/php/laravel/uvod-do-laravel-frameworku-pro-php
+
+
+
+dodelat format prikazu
+
+predelat migrace na jednotlivy tabulky 
