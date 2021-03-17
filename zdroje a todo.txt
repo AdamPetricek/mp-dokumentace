@@ -1,6 +1,14 @@
 https://www.itnetwork.cz/php/laravel/uvod-do-laravel-frameworku-pro-php
 
-- LARAVEL DOKUMENTACE - 
+https://laravel.com/docs/
+
+https://getbootstrap.com/docs/
+
+https://api.jquery.com/
+
+https://datatables.net/manual/
+
+https://fontawesome.com/v4.7.0/
 
 
 
